@@ -69,7 +69,7 @@ npm start
 ---
 
 ## Author
-**Truly Mittal**  
+**Shiva Kumar**  
 
 ---
 
